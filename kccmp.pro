@@ -1,3 +1,4 @@
+QT += widgets
 TARGET  = kccmp
 SOURCES = config_value.cpp config.cpp main.cpp config_view.cpp
 HEADERS = config_value.hpp config.hpp config_view.hpp
